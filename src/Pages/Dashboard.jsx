@@ -1,5 +1,6 @@
 import React from 'react';
 import citiesData from '../Components/Cities.json';
+import Navbar from '../Components/Navbar';
 
 const Dashboard = ({ city }) => {
   
@@ -11,6 +12,7 @@ const Dashboard = ({ city }) => {
   
     return (
       <div>
+        <Navbar/>
         <h2>{selectedCity.name}</h2>
         <p>{selectedCity.address}</p>
       </div>

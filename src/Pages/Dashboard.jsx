@@ -15,6 +15,7 @@ const Dashboard = ({ city }) => {
         <Navbar/>
         <h2>{selectedCity.name}</h2>
         <p>{selectedCity.address}</p>
+        <img src="https://www.zoomcar.com/img/web_banner.jpg"></img>
       </div>
     );
   }

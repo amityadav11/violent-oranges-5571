@@ -1,0 +1,83 @@
+[
+    {
+      "name": "New York",
+      "address": "123 Main St, New York, NY"
+    },
+    {
+      "name": "Los Angeles",
+      "address": "456 Vine St, Los Angeles, CA"
+    },
+    {
+      "name": "Chicago",
+      "address": "789 Oak St, Chicago, IL"
+    },
+    {
+      "name": "Houston",
+      "address": "321 Maple St, Houston, TX"
+    },
+    {
+      "name": "Philadelphia",
+      "address": "654 Elm St, Philadelphia, PA"
+    },
+    {
+      "name": "Phoenix",
+      "address": "987 Cedar St, Phoenix, AZ"
+    },
+    {
+      "name": "San Antonio",
+      "address": "234 Birch St, San Antonio, TX"
+    },
+    {
+      "name": "San Diego",
+      "address": "567 Pine St, San Diego, CA"
+    },
+    {
+      "name": "Dallas",
+      "address": "890 Oak St, Dallas, TX"
+    },
+    {
+      "name": "San Jose",
+      "address": "123 Elm St, San Jose, CA"
+    },
+    {
+      "name": "Austin",
+      "address": "456 Cedar St, Austin, TX"
+    },
+    {
+      "name": "Fort Worth",
+      "address": "789 Birch St, Fort Worth, TX"
+    },
+    {
+      "name": "Jacksonville",
+      "address": "321 Pine St, Jacksonville, FL"
+    },
+    {
+      "name": "Columbus",
+      "address": "654 Oak St, Columbus, OH"
+    },
+    {
+      "name": "San Francisco",
+      "address": "987 Elm St, San Francisco, CA"
+    },
+    {
+      "name": "Charlotte",
+      "address": "234 Cedar St, Charlotte, NC"
+    },
+    {
+      "name": "Indianapolis",
+      "address": "567 Birch St, Indianapolis, IN"
+    },
+    {
+      "name": "Seattle",
+      "address": "890 Pine St, Seattle, WA"
+    },
+    {
+      "name": "Denver",
+      "address": "123 Oak St, Denver, CO"
+    },
+    {
+      "name": "Washington",
+      "address": "456 Elm St, Washington, DC"
+    }
+  ]
+  

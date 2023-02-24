@@ -27,9 +27,9 @@ const AllRoutes = () => {
       <Route
         path="/single-p"
         element={
-          <PrivateRoutes>
+          // <PrivateRoutes>
             <SingleProducts />
-          </PrivateRoutes>
+          // </PrivateRoutes>
         }
       ></Route>
       <Route path="*" element={<NotFound />}></Route>
